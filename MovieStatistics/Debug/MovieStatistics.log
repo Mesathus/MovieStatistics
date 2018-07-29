@@ -1,0 +1,3 @@
+﻿  MovieStatistics.cpp
+c:\users\mesa\source\repos\moviestatistics\moviestatistics\moviestatistics.cpp(29): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MovieStatistics.vcxproj -> C:\Users\Mesa\source\repos\MovieStatistics\Debug\MovieStatistics.exe
